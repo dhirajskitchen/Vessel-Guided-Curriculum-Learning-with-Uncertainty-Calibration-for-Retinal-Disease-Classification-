@@ -87,7 +87,7 @@ The pipeline is built for **Google Colab (free tier, T4 GPU)**.
 @misc{vessel_guided_curriculum,
   title  = {Vessel-Guided Curriculum Learning with Uncertainty Calibration
             for Long-Tailed Multi-Disease Retinal Fundus Classification},
-  author = {<Your Name and Co-authors>},
+  author = {K Dhiraj, M Vaishnavi and Dr Modigari Narendra},
   year   = {2026}
 }
 ```
